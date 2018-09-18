@@ -1,0 +1,21 @@
+#styled{
+  position: relative;
+  background-color: Grey;
+  border: none;
+  color: Green;
+  padding: 0 30px;
+  text-align: center;
+  font-size: 6rem;
+  font-family: san-serif;
+  margin: 4px 2px;
+  opacity: 1;
+  transition: 0.3s;
+
+  .button: hover {opacity: 0.6}
+}
+
+
+#bodyStyle{
+background-color: black;
+}
+
